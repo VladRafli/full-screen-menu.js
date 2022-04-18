@@ -13,7 +13,7 @@ For now, only available on github, so you can download the source code directly 
 1. Define a HTML element with id of "full-screen-menu"
 
 ```html
-<div id="full-screen-menu" class="md:hidden animate__animated hidden">
+<div id="full-screen-menu" class="h-screen w-screen fixed top-0 bg-white md:hidden animate__animated hidden">
   <!-- Your menu goes here! -->
 </div>
 ```
